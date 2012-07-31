@@ -1,9 +1,11 @@
 # Pancakes
 
+### wet
 - 3/4 C milk
 - 2T vinegar
 - 1 egg
 
+### dry
 - 1 C flour
 - 2t sugar
 - 1t BP
